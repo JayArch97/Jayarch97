@@ -4,9 +4,9 @@ Github Status 📊
 
 <p><img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/?username=JayArch97&theme=dracula" width="400"
+  src="https://github-readme-stats.vercel.app/api/?username=JayArch97&theme=dracula" width="300"
 /></p>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayArch97&show_icons=true&locale=en&layout=compact" alt="JayArch97" width="400" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayArch97&show_icons=true&locale=en&layout=compact" alt="JayArch97" width="300" />
 </p>
 
