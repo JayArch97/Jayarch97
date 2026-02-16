@@ -1,6 +1,3 @@
-## Hi there 👋
-
-Github Status 📊
 
 <p><img
   align="center"
