@@ -1,4 +1,5 @@
 Github Status 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayArch97&show_icons=true&locale=en&layout=compact" alt="JayArch97" width="425" />
-
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
